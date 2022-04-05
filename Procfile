@@ -1,1 +1,1 @@
-web: python3 -m YukkiMusic
+web: bash setup && python3 -m YukkiMusic
